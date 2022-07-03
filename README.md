@@ -3,6 +3,7 @@ Tinybind is a lightweight and powerfull two-way data binding and templating solu
 
 WireBootstrap components can be referenced in an HTML page directly using Tinybind.  Components are automatically rendered when the web page loads.
 
+This is a sample project that demonstrates how the WirBootstrap for Tinybind integration works. 
 
 # Documetation
 Visit https://docs.wirebootstrap.com/tinybind for getting started materials and detailed documentation.
