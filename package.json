@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "license": "https://www.wirebootstrap.com/license/themes-license.html",
   "dependencies": {
-    "@wirebootstrap/wire-bootstrap": "^2.1.8",
+    "@wirebootstrap/wire-bootstrap": "^2.1.9",
     "http-server": "^14.1.1",
     "tinybind": "^1.0.0"
   },
@@ -12,4 +12,3 @@
     "start": "http-server -o ./index.html"
   }
 }
-

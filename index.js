@@ -21,6 +21,6 @@ class Index {
 
 }
 
-tinybind.bind(document, new Index());
+wire.ui.bind(document, new Index());
 
 
